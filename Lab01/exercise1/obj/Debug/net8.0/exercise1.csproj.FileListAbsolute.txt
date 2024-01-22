@@ -1,0 +1,14 @@
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\bin\Debug\net8.0\exercise1.exe
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\bin\Debug\net8.0\exercise1.deps.json
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\bin\Debug\net8.0\exercise1.runtimeconfig.json
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\bin\Debug\net8.0\exercise1.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\bin\Debug\net8.0\exercise1.pdb
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfo.cs
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\refint\exercise1.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.pdb
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\exercise1.genruntimeconfig.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exercise1\obj\Debug\net8.0\ref\exercise1.dll
