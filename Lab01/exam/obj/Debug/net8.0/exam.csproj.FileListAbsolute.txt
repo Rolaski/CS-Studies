@@ -1,0 +1,29 @@
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\bin\Debug\net8.0\exam.exe
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\bin\Debug\net8.0\exam.deps.json
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\bin\Debug\net8.0\exam.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\bin\Debug\net8.0\exam.pdb
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\refint\exam.dll
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.pdb
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+C:\Users\Admin\IdeaProjects\C# - Studies\Lab01\exam\obj\Debug\net8.0\ref\exam.dll
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\bin\Debug\net8.0\exam.exe
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\bin\Debug\net8.0\exam.deps.json
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\bin\Debug\net8.0\exam.dll
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\bin\Debug\net8.0\exam.pdb
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.sourcelink.json
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.dll
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\refint\exam.dll
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.pdb
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+C:\Users\Admin\IdeaProjects\CS-Studies\Lab01\exam\obj\Debug\net8.0\ref\exam.dll
