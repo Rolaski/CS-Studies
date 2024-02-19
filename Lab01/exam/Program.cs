@@ -9,10 +9,10 @@ namespace exam
             MiniMunchMachine machine = new MiniMunchMachine();
             Produkt pepsi = new Produkt("Pepsi",150, new DateTime(5125,02,02));
             Produkt produkcik = new Produkt("Czekolada", 112337, new DateTime(5125, 02, 02));
-            Produkt skurwysyn = new Produkt("Marek", 5,new DateTime(2024,01,31));
+            Produkt persona = new Produkt("Marek", 5,new DateTime(2024,01,31));
             machine.AddProdukt(produkcik);
             machine.AddProdukt(pepsi, 'F');
-            machine.AddProdukt(skurwysyn, 'S');
+            machine.AddProdukt(persona, 'S');
 
             machine.ToString();
             machine.AddMoney(5);
