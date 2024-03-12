@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\Studies\exercise1\bin\Debug\net8.0\exercise1.exe
+C:\Users\Admin\RiderProjects\Studies\exercise1\bin\Debug\net8.0\exercise1.deps.json
+C:\Users\Admin\RiderProjects\Studies\exercise1\bin\Debug\net8.0\exercise1.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Studies\exercise1\bin\Debug\net8.0\exercise1.dll
+C:\Users\Admin\RiderProjects\Studies\exercise1\bin\Debug\net8.0\exercise1.pdb
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.dll
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\refint\exercise1.dll
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.pdb
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\exercise1.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\Studies\exercise1\obj\Debug\net8.0\ref\exercise1.dll
